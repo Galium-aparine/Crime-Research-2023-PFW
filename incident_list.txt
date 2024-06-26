@@ -1,159 +1,159 @@
 SHOTS FIRED - violent
 
-SUSPICIOUS - 
+SUSPICIOUS - nonviolent
 FIRE - violent
-DISTURBANCE
-MEET
-VAND VEH
+DISTURBANCE - nonviolent
+MEET - nonviolent
+VAND VEH - violent
 nan
-HS HIT SKIP
-LM
-UNWANTED
-JO
-EMS
-RECKLESS DRI - 
-PI ACCIDENT
-DISABLED VEH
-PARKING VIOL
+HS HIT SKIP - violent
+LM - idk
+UNWANTED - nonviolent
+JO - idk
+EMS - nonviolent
+RECKLESS DRI - violent
+PI ACCIDENT - violent
+DISABLED VEH - nonviolent
+PARKING VIOL - nonviolent
 FW
 NUISANCE - nonviolent
-PROBLEM UNK
-DOMESTIC
-CUTTING
-PD ACCIDENT
-I JUV INVEST
-CONTACT
-T SUICIDE THR
-TRAFFIC STOP
-DUI
-HANG UP
-A AUDIBLE
-MISSING PERS
-J LOCKED OUT
-U UNAUTHORIZE
-A DEATH NOTIF
-RAPE
-FIGHT
-THEFT
-MENTALLY ILL
-ARMED ROB
-TRAFF HAZARD
-ASSIST
-BATTERY
-VANDALISM
-REMOVE ITEMS
-TX THREATS
-STOLEN VEHIC
-RN RUNAWAY
-OPEN DOOR
-MOTOR CHECK
-A SUICIDE ATT
-BURGLARY
-PURSUIT
-R STOLEN RECO
-STRONG ARM
-MAN DOWN
-C CAGE CAR
-BOMB THREAT
-OCCUPIED VEH
-IP
-V MENTAL VIOL
-SHOOTING
-ALARM
-IP BURG I
-HARASSMENT
-ATL
-H HOLDUP ALRM
-FOLLOWUP
-WARRANT
-NARCOTICS
-THREATS
-FOUND ITEMS
-CIVIL INVEST
-LOST
-P PANIC ALARM
-PARTY ARMED
-I INTRUSION
-NEIGHBORHOOD
-FSC
-N CHILD NEGLE
-RC RECOVERY
-NOT SEEN
-MOLESTING
-HS PI HITSKIP
-ESCORT
-WORK TRAFFIC
-INTOX PERSON
-SPECIAL ASGN
-ASS URGEN
-IP THEFT I
-I INJURED
-D DOG
-ATTEMPTED
-ATM ATM ALARM
-LP
-P DEER PERMI
-ASST AT O
-S SERVING WAR
-TOW
-DUMPING
-PARKED VEHIC
-INFO REPORT
-LP LOST PROPERT
-A LOST ITEMS
+PROBLEM UNK - idk
+DOMESTIC - nonviolent
+CUTTING - violent
+PD ACCIDENT - violent
+I JUV INVEST - nonviolent
+CONTACT - violent
+T SUICIDE THR - violent
+TRAFFIC STOP - nonviolent
+DUI - violent
+HANG UP - nonviolent
+A AUDIBLE - nonviolent
+MISSING PERS - nonviolent
+J LOCKED OUT - nonviolent
+U UNAUTHORIZE - nonviolent
+A DEATH NOTIF - violent
+RAPE - violent
+FIGHT - violent
+THEFT - violent
+MENTALLY ILL - nonviolent
+ARMED ROB - violent
+TRAFF HAZARD - nonviolent
+ASSIST - nonviolent
+BATTERY - violent
+VANDALISM - nonviolent
+REMOVE ITEMS - nonviolent
+TX THREATS - violent
+STOLEN VEHIC - violent
+RN RUNAWAY - nonviolent
+OPEN DOOR - nonviolent
+MOTOR CHECK - nonviolent
+A SUICIDE ATT - violent
+BURGLARY - violent
+PURSUIT - violent
+R STOLEN RECO - violent
+STRONG ARM - violent
+MAN DOWN - violent
+C CAGE CAR - idk
+BOMB THREAT - violent
+OCCUPIED VEH - nonviolent
+IP - idk
+V MENTAL VIOL - violent
+SHOOTING - violent
+ALARM - nonviolent
+IP BURG I - violent
+HARASSMENT - violent
+ATL - idk
+H HOLDUP ALRM - nonviolent
+FOLLOWUP - nonviolent
+WARRANT - nonviolent
+NARCOTICS - nonviolent
+THREATS - violent
+FOUND ITEMS - nonviolent
+CIVIL INVEST - nonviolent
+LOST - nonviolent
+P PANIC ALARM - nonviolent
+PARTY ARMED - violent
+I INTRUSION - violent
+NEIGHBORHOOD - idk
+FSC - nonviolent
+N CHILD NEGLE - violent
+RC RECOVERY - nonviolent
+NOT SEEN - nonviolent
+MOLESTING - violent
+HS PI HITSKIP - violent
+ESCORT - nonviolent
+WORK TRAFFIC - nonviolent
+INTOX PERSON - nonviolent
+SPECIAL ASGN - nonviolent
+ASS URGEN - idk
+IP THEFT I - nonviolent
+I INJURED - violent
+D DOG - nonviolent
+ATTEMPTED - violent
+ATM ATM ALARM - nonviolent
+LP - idk
+P DEER PERMI - nonviolent
+ASST AT O - nonviolent
+S SERVING WAR - nonviolent
+TOW - nonviolent
+DUMPING - nonviolent
+PARKED VEHIC - nonviolent
+INFO REPORT - nonviolent
+LP LOST PROPERT - nonviolent
+A LOST ITEMS - nonviolent
 
 
-LB
-FAIL TO PAY
-STRUCTURE
-HAZMAT
-INDECENT
-V PICKUP VID
-PP PINNED
-PICK UP ITEM
-R REREAD
-A LOST
-P Serving PO
-WALK AWAY
-VICE INVEST
-FIRE NEAR
-F FATAL ACC
-PICK UP PRIS
-KIDNAPPING
-HOME DETEN
-TX DIALER
-PROWLER
-LEO
-RESCUE
-IP
-PROBATION
-Z ZACH CHECK
-E EVICTION
-VEHICLE FIRE
-ANIMAL INVE
-HUNTERTOWN
-IP VANDALISM
-FIRE
-SHOPLIFTER
-DEATH INVEST
-C CAT
-HOUSE FIRE
-L LISTENING
-CAR FIRE
-GRABILL
-WOODBURN
-MONROEVILLE
-STRUCTURE FIRE
-COMM SERVIC
-WIRES DOWN
-IP ROB I 
-MAN DOWN
-CONFINED SPACE
-TEST MISC
-SUICIDE ATTEMPT
-S
-AMBULANCE
-R
-HUNTERS
-ALARM FIRE
-MAN DOWN VEH
+LB - idk
+FAIL TO PAY - nonviolent
+STRUCTURE - nonviolent
+HAZMAT - nonviolent
+INDECENT - nonviolent
+V PICKUP VID - nonviolent
+PP PINNED - violent
+PICK UP ITEM - nonviolent
+R REREAD - nonviolent
+A LOST - nonviolent
+P Serving PO - idk
+WALK AWAY - nonviolent
+VICE INVEST - nonviolent
+FIRE NEAR - nonviolent
+F FATAL ACC - violent
+PICK UP PRIS - nonviolent
+KIDNAPPING - violent
+HOME DETEN - nonviolent
+TX DIALER - nonviolent
+PROWLER - violent
+LEO - n/a
+RESCUE - nonviolent
+IP - nonviolent
+PROBATION - nonviolent
+Z ZACH CHECK - nonviolent
+E EVICTION - nonviolent 
+VEHICLE FIRE - nonviolent
+ANIMAL INVE - nonviolent
+HUNTERTOWN - n/a
+IP VANDALISM - violent
+FIRE - violent
+SHOPLIFTER - nonviolent
+DEATH INVEST - nonviolent
+C CAT - nonviolent
+HOUSE FIRE - violent
+L LISTENING - nonviolent
+CAR FIRE - nonviolent
+GRABILL - n/a
+WOODBURN - n/a
+MONROEVILLE - n/a
+STRUCTURE FIRE - nonviolent
+COMM SERVIC - nonviolent
+WIRES DOWN - nonviolent
+IP ROB I - violent
+MAN DOWN - violent
+CONFINED SPACE - nonviolent
+TEST MISC - nonviolent
+SUICIDE ATTEMPT - violent
+S - n/a
+AMBULANCE - nonviolent
+R - nonviolent
+HUNTERS - nonviolent
+ALARM FIRE - nonviolent
+MAN DOWN VEH - nonviolent
