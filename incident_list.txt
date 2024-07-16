@@ -6,10 +6,10 @@ DISTURBANCE - nonviolent
 MEET - nonviolent
 VAND VEH - violent
 nan
-HS HIT SKIP - violent
-LM - idk
+HS HIT SKIP - nonviolent
+LM - non violent
 UNWANTED - nonviolent
-JO - idk
+JO - violent
 EMS - nonviolent
 RECKLESS DRI - violent
 PI ACCIDENT - violent
@@ -17,12 +17,12 @@ DISABLED VEH - nonviolent
 PARKING VIOL - nonviolent
 FW
 NUISANCE - nonviolent
-PROBLEM UNK - idk
+PROBLEM UNK - nonviolent
 DOMESTIC - nonviolent
 CUTTING - violent
 PD ACCIDENT - violent
-I JUV INVEST - nonviolent
-CONTACT - violent
+I JUV INVEST - violent
+CONTACT - nonviolent
 T SUICIDE THR - violent
 TRAFFIC STOP - nonviolent
 DUI - violent
@@ -53,16 +53,16 @@ PURSUIT - violent
 R STOLEN RECO - violent
 STRONG ARM - violent
 MAN DOWN - violent
-C CAGE CAR - idk
+C CAGE CAR - nonviolent
 BOMB THREAT - violent
 OCCUPIED VEH - nonviolent
-IP - idk
+IP - nonviolent
 V MENTAL VIOL - violent
 SHOOTING - violent
 ALARM - nonviolent
-IP BURG I - violent
+IP BURG I - nonviolent
 HARASSMENT - violent
-ATL - idk
+ATL - nonviolent 
 H HOLDUP ALRM - nonviolent
 FOLLOWUP - nonviolent
 WARRANT - nonviolent
@@ -74,7 +74,7 @@ LOST - nonviolent
 P PANIC ALARM - nonviolent
 PARTY ARMED - violent
 I INTRUSION - violent
-NEIGHBORHOOD - idk
+NEIGHBORHOOD - nonviolent
 FSC - nonviolent
 N CHILD NEGLE - violent
 RC RECOVERY - nonviolent
@@ -85,14 +85,14 @@ ESCORT - nonviolent
 WORK TRAFFIC - nonviolent
 INTOX PERSON - nonviolent
 SPECIAL ASGN - nonviolent
-ASS URGEN - idk
+ASS URGEN - nonviolent
 IP THEFT I - nonviolent
 I INJURED - violent
 D DOG - nonviolent
 ATTEMPTED - violent
 ATM ATM ALARM - nonviolent
-LP - idk
-P DEER PERMI - nonviolent
+LP - nonviolent
+P DEER PERMI - violent
 ASST AT O - nonviolent
 S SERVING WAR - nonviolent
 TOW - nonviolent
@@ -103,7 +103,7 @@ LP LOST PROPERT - nonviolent
 A LOST ITEMS - nonviolent
 
 
-LB - idk
+LB - nonviolent
 FAIL TO PAY - nonviolent
 STRUCTURE - nonviolent
 HAZMAT - nonviolent
@@ -113,7 +113,7 @@ PP PINNED - violent
 PICK UP ITEM - nonviolent
 R REREAD - nonviolent
 A LOST - nonviolent
-P Serving PO - idk
+P Serving PO - nonviolent
 WALK AWAY - nonviolent
 VICE INVEST - nonviolent
 FIRE NEAR - nonviolent
@@ -132,7 +132,7 @@ E EVICTION - nonviolent
 VEHICLE FIRE - nonviolent
 ANIMAL INVE - nonviolent
 HUNTERTOWN - n/a
-IP VANDALISM - violent
+IP VANDALISM - nonviolent
 FIRE - violent
 SHOPLIFTER - nonviolent
 DEATH INVEST - nonviolent
@@ -141,13 +141,13 @@ HOUSE FIRE - violent
 L LISTENING - nonviolent
 CAR FIRE - nonviolent
 GRABILL - n/a
-WOODBURN - n/a
+WOODBURN - nonviolent
 MONROEVILLE - n/a
 STRUCTURE FIRE - nonviolent
 COMM SERVIC - nonviolent
 WIRES DOWN - nonviolent
-IP ROB I - violent
-MAN DOWN - violent
+IP ROB I - nonviolent
+MAN DOWN - nonviolent
 CONFINED SPACE - nonviolent
 TEST MISC - nonviolent
 SUICIDE ATTEMPT - violent
